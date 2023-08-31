@@ -12,9 +12,11 @@
 	{
 		"name": "Air Superiority",
 		"uniques": [
-			"[+110]% Strength <when attacking>",
+			"[+150]% Strength <when attacking>",
 			"Damage taken from interception reduced by [90]%",
-			"[1] additional attacks per turn"
+			"[2] additional attacks per turn",
+			"[+8] Sight",
+			"[+10] Range"
 		]
 	},
 	
@@ -60,7 +62,7 @@
 		"name": "Better Wayfinding",
 		"uniques": [
 			"[+5] Sight",
-			"[+1] Movement",
+			"[+5] Movement",
 			"Can see invisible [Submarine] units",
 			"Can pass through impassable tiles"
 		]
@@ -71,7 +73,8 @@
 		"uniques": [
 			"[+4] Range",
 			"[+4] Sight",
-			"[+4] Sight", "Can see over obstacles"
+			"[+4] Sight",
+			"Can see over obstacles"
 		]
 	},
 	
@@ -90,7 +93,6 @@
 	{
 		"name": "Capture Master",
 		"uniques": [
-			"[+10] Sight",
 			"[4] additional attacks per turn"
 		]
 	},
