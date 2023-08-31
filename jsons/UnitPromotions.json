@@ -81,12 +81,14 @@
 	{
 		"name": "Brilliant Detonation",
 		"uniques": [
-			"[+365]% Strength <when attacking>",
+			"[+500]% Strength <when attacking>",
 			"Damage taken from interception reduced by [90]%",
 			"[+5] Range",
+			"[+15] Range",
 			"[+4] Sight",
 			"[+4] Sight", "Can see over obstacles",
-			"[Great General] is earned [80]% faster"
+			"[Great] is earned [-95]% faster",
+			"Blast radius [+3]"
 		]
 	},
 	
