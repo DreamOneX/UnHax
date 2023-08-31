@@ -90,8 +90,8 @@
 	{
 		"name": "Capture Master",
 		"uniques": [
-			"May capture killed [{non-air} {Military}] units",
-			"May capture killed [{Aircraft} {Military}] units"
+			"[+10] Sight",
+			"[4] additional attacks per turn"
 		]
 	},
 	
